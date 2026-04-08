@@ -1,8 +1,6 @@
 # 🤖 MARK XXXV
 
-**Watch The Detailed Video To Set-up This Model**: https://www.youtube.com/watch?v=BhOsnGC_sAA
-
-### Next-Generation Personal AI Assistant — By FatihMakes
+### Next-Generation Personal AI Assistant
 
 A real-time voice AI that can hear, see, understand, and control your Windows computer.
 Local execution. Zero subscriptions (unless you want to increase requests via Google AI Studio).
@@ -59,15 +57,6 @@ System ready in minutes.
 * Microphone
 * Free [Gemini API key](https://aistudio.google.com/apikey)
 ---
-## ⚠️ License
 
-Personal and non-commercial use only.
-Licensed under **Creative Commons BY-NC 4.0**.
-
-Engineered by a 17-year-old building a real JARVIS-style assistant.
+Engineered by a 18-year-old building a real JARVIS-style assistant.
 ⭐ Star the repository to support the project.
----
-If you have questions, issues, or just want to say hi:
-
-* YouTube: [@FatihMakes](https://www.youtube.com/@FatihMakes)
-* Instagram: [@fatihmakes](https://www.instagram.com/fatihmakes/)
